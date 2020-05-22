@@ -1,27 +1,16 @@
-# bibliotech
+# Biblioteca
 
-## Project setup
-```
-npm install
-```
+Aplicação desenvolvida para apresentação do projeto de bloco de Front-End no Instituto INFNET na Graduação de Engenharia da Computação.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Objetivo:
+auxiliar a leitura de livros e afins. Para isso, a aplicação conta com a utlização da API de livros da Google, além de uma interface amigável e de fácil utilização.
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Techs utilizadas:
+Html, CSS, Javascript
+Vue
+Vuex
+Vuetify
+Firebase
 
 Wiredflow:
 https://antonio391553.invisionapp.com/public/share/62ZLB4T7G#/screens/476064947
@@ -34,3 +23,9 @@ https://imgur.com/xucEqTa
 
 Publicação no Git:
 https://antoniocastilloz.github.io/teste/
+
+Github dos devs:
+antoniocastilloz
+Guz0wski
+brverdan
+Cunhaaa332
